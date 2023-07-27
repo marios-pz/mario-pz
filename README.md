@@ -7,34 +7,18 @@ Embracing this ethos, I aim to foster an environment of collaboration and transp
 empowering individuals and communities to build upon and enhance these creations without barriers.
 **Given enough eyeballs, all bugs are shallow**. <br />
 
-I can work under any versions of LGPL and GPL licenses.
+I am currently focusing on Cybersecurity in my studies, but I also have a hobby interest in the field of IoT.
 
-## Topics I am covering
-
-* DevOps
-* Cyber Security
-
-![Elliot](./assets/mrrobot.gif)
-
-## Education
-
-* Computer Engineering (I swear its fun -said nobody).
-* self taught.
+![Elliot](./assets/mr-robot.gif)
 
 ## Want to see my blog?
 
 Visit [this](http://mario-pz.github.io/blog) link.
 
 ## Other
-* [Twitch](https://www.twitch.tv/donavanstream)
-* [Youtube](https://www.youtube.com/channel/UCV1O5JALSEN4RxBfkVHnEVA)
-* Discord: @freedom_penguin
 
 ![tf2](./assets/tf2.gif)
 
-This is my puma.
-
-これは私のピューマ猫です。
-はい、私も日本語を勉強しています。
-
-![Puma](./assets/puma.jpg)
+* [Twitch](https://www.twitch.tv/donavanstream)
+* [Youtube](https://www.youtube.com/channel/UCV1O5JALSEN4RxBfkVHnEVA)
+* Discord: @freedom_penguin
