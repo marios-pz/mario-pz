@@ -1,16 +1,14 @@
-# DevSecOps Engineer and Open Source Evangelist
-
-## Hello Friend.
+# Hello Friend.
 
 Welcome to my profile, 
+Diving into DevOps opened gates where I can be passionate, researching and implementing cutting-edge practises and technologies, consistently seeking to eliminate anti-patterns and embrace new ideas. My daily drive resolves around Security and Free and Open Source Software, ensuring transparency through the power of open collaboration.
+Come visit my [portfolio](http://mario-pz.github.io)
 
-I am currently focusing on Cybersecurity in my studies, but I also have a hobby interest in the field of IoT.
+## Skills
+* 🐍 Python
+* 🐹 Go 
 
 ![Elliot](./assets/mr-robot.gif)
-
-## Want to see my blog?
-
-Visit [this](http://mario-pz.github.io/blog) link.
 
 ## Other
 
